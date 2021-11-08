@@ -1,24 +1,13 @@
-# vue-module
+# VUE module
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+* `npm install` - install dependencies
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* `npm start` - start app
 
-### Lints and fixes files
-```
-npm run lint
-```
+* `npm run start:backend` - start backend server
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Stuck or got questions?
+
+contact us in slack: @Serhii Oselskyi, @Andrii Kutsyk, @Illia Voloshchuk 
